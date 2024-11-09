@@ -9,7 +9,7 @@ export default function Login() {
         <Loginlogo />
 
         {/* Login Form Section */}
-        {/* <Loginform /> */}
+        <Loginform />
       </div>
     </>
   );
